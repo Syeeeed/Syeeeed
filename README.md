@@ -101,7 +101,7 @@ https://perintis.org.my/ejournalperintis/index.php/PeJ/article/view/164
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syeeeed&theme=react-dark&hide_border=true&area=true&line=00F7FF&point=FFFFFF"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syeeeed&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
