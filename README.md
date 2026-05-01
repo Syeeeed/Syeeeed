@@ -99,9 +99,8 @@ https://perintis.org.my/ejournalperintis/index.php/PeJ/article/view/164
   <img src="https://github-readme-stats.vercel.app/api?username=Syeeeed&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syeeeed&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syeeeed&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syeeeed&theme=react-dark&hide_border=true&area=true&line=00F7FF&point=00F7FF&area_color=00F7FF&bg_color=0d1117"/>
 </p>
 
 ---
