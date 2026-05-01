@@ -12,52 +12,53 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2"/>
-</p>
-
-## 🧠 Core System Thinking
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Perception+→+Decision+→+Control+→+Learning;Closed-Loop+Autonomous+Systems;AI+%2B+Robotics+Integration&center=true&width=600&height=40&color=F7B801">
-</p>
+## 🧠 About Me
+Mechatronics Engineer specializing in **Robotics, Machine Learning, and Automation**, with expertise in **sensor integration and AI-driven swarm systems**. Actively involved in **IEEE robotics research**.
 
 ---
 
-## 🚀 Flagship Systems
+## 🚀 Core Focus
+- Autonomous Vehicles (CNN + RL + LiDAR)
+- Swarm Robotics & Multi-Agent Systems
+- Machine Learning for Robotics
+- Sensor Fusion (Camera, LiDAR, IMU, GPS)
+- Real-Time Intelligent Systems
 
-### 🚗 Autonomous Vehicle System
+---
+
+## 🧩 System Pipeline (Animated Thinking)
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Camera+%2B+LiDAR+→+CNN+→+RL+→+Control;CARLA+Simulation+%7C+Multi-Sensor+Fusion;Real-Time+Decision+Making&center=true&width=600&height=40&color=00C853">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Sensors+→+Perception+→+State+→+Decision+→+Control+→+Learning;Closed-Loop+Autonomous+System;AI+Driven+Robotics+Pipeline&center=true&width=700&height=45&color=00F7FF">
 </p>
 
-- CNN-based perception (lane, object, sign detection)  
-- Reinforcement Learning for navigation  
-- CARLA simulation with **LiDAR + multi-sensor fusion**  
-- Closed-loop autonomous pipeline  
+
+---
+
+## 🚗 Autonomous Vehicle System
+
+- CNN-based perception (lane, object, sign detection)
+- Reinforcement Learning for adaptive navigation
+- CARLA simulation with **multi-sensor fusion**
+- LiDAR-based depth perception & obstacle handling
 
 🎥 Demo: *(add your video link here)*
 
 ---
 
-### 🛸 Aerial Swarm Intelligence
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Decentralized+Agents;Task+Allocation+%2B+Trajectory+Planning;Emergent+Swarm+Behavior&center=true&width=600&height=40&color=FF6D00">
-</p>
+## 🛸 Aerial Swarm Intelligence
 
-- Multi-agent coordination  
-- RL + market-based task allocation  
-- Scalable swarm framework  
+- Decentralized swarm coordination  
+- RL + market-based allocation  
+- Scalable multi-agent system design  
 
 ---
 
-### 🧠 Bio-Signal Intelligence
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=ECG+%2B+EEG+%2B+EMG+→+ML+→+Pain+Detection;Objective+Healthcare+AI+System&center=true&width=600&height=40&color=D500F9">
-</p>
+## 🧠 Bio-Signal Intelligence (Healthcare AI)
 
-- Pain classification system  
-- Random Forest (65.1% accuracy)  
-- Real-time output (graph + voice)
+- Objective pain detection system  
+- Random Forest accuracy: **65.1%**  
+- Real-time output (visual + voice)
 
 📄 Publication:  
 https://perintis.org.my/ejournalperintis/index.php/PeJ/article/view/164  
@@ -68,15 +69,6 @@ https://perintis.org.my/ejournalperintis/index.php/PeJ/article/view/164
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,matlab,tensorflow,pytorch,opencv,arduino,raspberrypi,git,github" />
-</p>
-
----
-
-## 🧩 System Pipeline (Animated Thinking)
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=80&section=header"/>
 </p>
 
 ---
@@ -108,8 +100,9 @@ https://perintis.org.my/ejournalperintis/index.php/PeJ/article/view/164
 ---
 
 ## ⚡ Philosophy
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Intelligence+is+Action+Under+Uncertainty;Build+Systems+That+Learn+and+Adapt;Engineering+the+Future+of+Autonomy&center=true&width=600&height=40&color=00F7FF">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Intelligence+is+Action+Under+Uncertainty;Build+Systems+That+Perceive+Learn+and+Adapt;Engineering+Autonomy&center=true&width=600&height=40&color=00F7FF">
 </p>
 
 ---
@@ -117,3 +110,4 @@ https://perintis.org.my/ejournalperintis/index.php/PeJ/article/view/164
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </p>
+
