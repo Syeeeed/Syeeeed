@@ -43,6 +43,18 @@ Mechatronics Engineer specializing in **Robotics, Machine Learning, and Autonomo
 
 ---
 
+## 🛸 Aerial Swarm Intelligence
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Decentralized+Agents;Task+Allocation+%2B+Trajectory+Planning;Swarm+Coordination&center=true&width=600&height=40&color=FF6D00">
+</p>
+
+- Decentralized coordination  
+- RL + market-based task allocation  
+- Scalable multi-agent systems  
+
+---
+
 ## 🚗 Autonomous Vehicle System
 
 <p align="center">
@@ -54,17 +66,6 @@ Mechatronics Engineer specializing in **Robotics, Machine Learning, and Autonomo
 - CARLA simulation with **multi-sensor fusion (Camera + LiDAR + IMU + GPS)**  
 - LiDAR-based navigation for spatial awareness  
 
----
-
-## 🛸 Aerial Swarm Intelligence
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Decentralized+Agents;Task+Allocation+%2B+Trajectory+Planning;Swarm+Coordination&center=true&width=600&height=40&color=FF6D00">
-</p>
-
-- Decentralized coordination  
-- RL + market-based task allocation  
-- Scalable multi-agent systems  
 
 ---
 
