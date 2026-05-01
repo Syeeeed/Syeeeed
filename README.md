@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/adc072f8-7737-40a2-b33b-3cf10f75322d" />
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Syeeeed/Syeeeed/main/assets/robotics-bg.png" width="100%" />
 </p>
