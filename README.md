@@ -99,33 +99,8 @@ https://perintis.org.my/ejournalperintis/index.php/PeJ/article/view/164
   <img src="https://github-readme-stats.vercel.app/api?username=Syeeeed&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syeeeed&theme=tokyonight&hide_border=true" />
 </p>
-## 📡 Signal Activity
-
 <p align="center">
-<svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="#0d1117"/>
-
-  <path id="wave"
-        d="M0,60 
-           L50,60 L60,30 L70,90 L80,60 
-           L150,60 L160,20 L170,100 L180,60 
-           L250,60 L260,40 L270,80 L280,60 
-           L350,60 L360,30 L370,90 L380,60 
-           L450,60 L460,20 L470,100 L480,60 
-           L600,60"
-        stroke="#00F7FF"
-        stroke-width="2"
-        fill="none"
-        stroke-dasharray="600"
-        stroke-dashoffset="600">
-
-    <animate attributeName="stroke-dashoffset"
-             from="600"
-             to="0"
-             dur="2s"
-             repeatCount="indefinite"/>
-  </path>
-</svg>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syeeeed&theme=react-dark&hide_border=true&area=true&line=00F7FF&point=FFFFFF"/>
 </p>
 
 ---
