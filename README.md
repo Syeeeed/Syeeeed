@@ -116,7 +116,7 @@ https://perintis.org.my/ejournalperintis/index.php/PeJ/article/view/164
   <a href="mailto:sadibkhaled@gmail.com">
     <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail">
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/sam-khaled/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin">
   </a>
 </p>
