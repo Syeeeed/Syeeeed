@@ -114,10 +114,13 @@ https://perintis.org.my/ejournalperintis/index.php/PeJ/article/view/164
 
 <p align="center">
   <a href="mailto:sadibkhaled@gmail.com">
-    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/sadibkhaled@gmail.com-black?style=for-the-badge&logo=gmail">
   </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/sam-khaled/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Syed%20Ashque%20MD%20Khaled-black?style=for-the-badge&logo=linkedin">
   </a>
 </p>
 
