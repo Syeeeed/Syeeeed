@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Syeeeed/Syeeeed/main/assets/robotics-bg.png" width="100%" />
+</p>
+
 <h1 align="center">Syed Ashque MD Khaled</h1>
 <h3 align="center">Mechatronics Engineer • Robotics • AI • Autonomous Systems</h3>
 
@@ -7,7 +11,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Syeeeed&label=Profile+Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Syeeeed?style=social" />
 </p>
 
 ---
@@ -18,47 +21,56 @@ Mechatronics Engineer specializing in **Robotics, Machine Learning, and Automati
 ---
 
 ## 🚀 Core Focus
-- Autonomous Vehicles (CNN + RL + LiDAR)
-- Swarm Robotics & Multi-Agent Systems
-- Machine Learning for Robotics
-- Sensor Fusion (Camera, LiDAR, IMU, GPS)
-- Real-Time Intelligent Systems
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Autonomous+Vehicles;Swarm+Robotics;Sensor+Fusion;Reinforcement+Learning;Real-Time+AI+Systems&center=true&width=600&height=40&color=00C853">
+</p>
 
 ---
 
-## 🧩 System Pipeline (Animated Thinking)
+## 🧩 System Pipeline
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Sensors+→+Perception+→+State+→+Decision+→+Control+→+Learning;Closed-Loop+Autonomous+System;AI+Driven+Robotics+Pipeline&center=true&width=700&height=45&color=00F7FF">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Sensors+→+Perception+→+State+→+Decision+→+Control+→+Learning;Closed-Loop+Autonomous+System&center=true&width=700&height=45&color=00F7FF">
 </p>
-
 
 ---
 
 ## 🚗 Autonomous Vehicle System
 
-- CNN-based perception (lane, object, sign detection)
-- Reinforcement Learning for adaptive navigation
-- CARLA simulation with **multi-sensor fusion**
-- LiDAR-based depth perception & obstacle handling
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Camera+%2B+LiDAR+→+CNN+→+RL+→+Control;CARLA+Simulation+%7C+Multi-Sensor+Fusion&center=true&width=600&height=40&color=00B0FF">
+</p>
 
-🎥 Demo: *(add your video link here)*
+- CNN-based perception (lane, object, sign detection)  
+- Reinforcement Learning for navigation  
+- CARLA simulation with **multi-sensor fusion (Camera + LiDAR + IMU + GPS)**  
+- LiDAR-based navigation for spatial awareness  
+
+🎥 Demo: *(add your video link)*
 
 ---
 
 ## 🛸 Aerial Swarm Intelligence
 
-- Decentralized swarm coordination  
-- RL + market-based allocation  
-- Scalable multi-agent system design  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Decentralized+Agents;Task+Allocation+%2B+Trajectory+Planning;Swarm+Coordination&center=true&width=600&height=40&color=FF6D00">
+</p>
+
+- Decentralized coordination  
+- RL + market-based task allocation  
+- Scalable multi-agent systems  
 
 ---
 
-## 🧠 Bio-Signal Intelligence (Healthcare AI)
+## 🧠 Bio-Signal Intelligence
 
-- Objective pain detection system  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=ECG+%2B+EEG+%2B+EMG+→+ML+→+Pain+Detection;Healthcare+AI+System&center=true&width=600&height=40&color=D500F9">
+</p>
+
+- Pain classification system  
 - Random Forest accuracy: **65.1%**  
-- Real-time output (visual + voice)
+- Real-time output (graph + voice)
 
 📄 Publication:  
 https://perintis.org.my/ejournalperintis/index.php/PeJ/article/view/164  
@@ -102,7 +114,7 @@ https://perintis.org.my/ejournalperintis/index.php/PeJ/article/view/164
 ## ⚡ Philosophy
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Intelligence+is+Action+Under+Uncertainty;Build+Systems+That+Perceive+Learn+and+Adapt;Engineering+Autonomy&center=true&width=600&height=40&color=00F7FF">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Intelligence+is+Action+Under+Uncertainty;Engineering+Autonomy;Build+Systems+That+Learn+and+Adapt&center=true&width=600&height=40&color=00F7FF">
 </p>
 
 ---
@@ -110,4 +122,3 @@ https://perintis.org.my/ejournalperintis/index.php/PeJ/article/view/164
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </p>
-
