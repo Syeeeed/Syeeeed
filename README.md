@@ -17,8 +17,18 @@
 
 ---
 
-## 🧠 About Me
-Mechatronics Engineer specializing in **Robotics, Machine Learning, and Automation**, with expertise in **sensor integration and AI-driven swarm systems**. Actively involved in **IEEE robotics research**.
+## 🧬 Core Identity
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Robotics+%2B+AI+%2B+Autonomy;Sensor+Fusion+%2B+Intelligent+Systems;Perception+Driven+Decision+Making;Engineering+Real-World+Autonomy&center=true&width=700&height=45&color=00F7FF">
+</p>
+
+Mechatronics Engineer specializing in **Robotics, Machine Learning, and Autonomous Systems**, focused on building **intelligent, perception-driven systems** that operate in real-world environments.
+
+- Designing **closed-loop autonomous pipelines**
+- Integrating **multi-sensor systems (Camera, LiDAR, IMU, GPS)**
+- Developing **AI-driven swarm and multi-agent systems**
+- Applying **ML for real-time decision-making and control**
 
 ---
 
