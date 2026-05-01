@@ -54,8 +54,6 @@ Mechatronics Engineer specializing in **Robotics, Machine Learning, and Autonomo
 - CARLA simulation with **multi-sensor fusion (Camera + LiDAR + IMU + GPS)**  
 - LiDAR-based navigation for spatial awareness  
 
-🎥 Demo: *(add your video link)*
-
 ---
 
 ## 🛸 Aerial Swarm Intelligence
